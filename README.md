@@ -1,7 +1,3 @@
-Since you have already pushed your code, you can update your `README.md` to look professional and showcase your technical skills as a B.Tech CSE (AI/ML) student.
-
-Here is a comprehensive description. You can copy this entire block, go to your GitHub repository, click the **pencil icon** on the `README.md` file, and paste this in:
-
 ```markdown
 #  Flutter Image Handler (flutter_cam_app)
 
