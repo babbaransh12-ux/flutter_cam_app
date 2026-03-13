@@ -50,11 +50,6 @@ flutter run
 ```
 
 
-
-Here is a clean, professional **Prerequisites** section for your README. Since you are a B.Tech CSE student specializing in AI/ML, I've added a few points that show you understand the hardware-level requirements of mobile development.
-
-Replace the old Prerequisites section with this:
-
 ---
 
 ##  Prerequisites
